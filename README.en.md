@@ -39,7 +39,7 @@ a target device.
 ## Installation
 
 ```bash
-git clone <REPO-URL> ~/scripts/sd_backupper
+git clone https://github.com/Dave2526/sd_backupper.git ~/scripts/sd_backupper
 cd ~/scripts/sd_backupper
 chmod +x sd_backup.sh sd_restore.sh
 ```
